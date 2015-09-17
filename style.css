@@ -35,3 +35,13 @@ ul {
 	background-color: aliceblue;
 	border-color: pink;
 }
+
+button {
+	font-size: 18px;
+	padding: 20px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border:1px solid pink;
+	background-color:aliceblue;
+	display: none;
+}

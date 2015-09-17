@@ -23,6 +23,7 @@ $(function(){
     ];
     //
     $('.numGrps').on('click', function(){
+    	$("button").show();
     	$(".numGrps").removeClass("current");
     	var num = parseInt($(this).text());
     	var assignedGrps = makeGrps2(num);
