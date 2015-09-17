@@ -12,8 +12,9 @@
 
 .grpAssign div {
 	float: left;
-	width: 200px;
-	height: 200px;
+	width: 130px;
+	padding-left: 20px;
+	min-height: 200px;
 	background-color: aliceblue;
 }
 
@@ -28,4 +29,9 @@
 
 ul {
 	height: 100px;
+}
+
+.current {
+	background-color: aliceblue;
+	border-color: pink;
 }
