@@ -1,0 +1,31 @@
+.numGrps {
+	list-style: none;
+	float: left;
+	background-color: pink;
+	margin: 5px;
+	padding: 10px;
+	border-radius: 10px;
+	border: 3px solid aliceblue;
+	width: 20px;
+	text-align: center;
+}
+
+.grpAssign div {
+	float: left;
+	width: 200px;
+	height: 200px;
+	background-color: aliceblue;
+}
+
+.groupButtons {
+/*	content: "";
+	clear: both;
+	height: 0;
+	width: 100%;*/
+	display: block;
+	width: 100%;
+}
+
+ul {
+	height: 100px;
+}
